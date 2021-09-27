@@ -1,0 +1,28 @@
+{
+  "name": "CosmicInvanders",
+  "version": "1.0.3",
+  "description": "A private bot belongs to CosmicInvanders ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "dependencies": {
+    "aoi.js": "^4.4.4",
+    "@discordjs/opus": "^0.6.0",
+    "ffmpeg-static": "^4.4.0",
+    "dbd.js-utils": "^0.1.0",
+    "weky": "3.1.5",
+    "@weky/inlinereply": "0.0.0",
+    "discord-buttons": "^4.0.0",
+    "leaf-utils": "^1.0.2",
+    "simply-djs": "1.0.88",
+    "discord-chatbot-simple": "^0.0.5",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "ProbablyKalvin",
+  "license": "MIT"
+}
